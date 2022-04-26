@@ -7,7 +7,7 @@ Software Components used: IMU - Inertial Measurement Unit, Simple LED, IO Stream
 
 ## Gecko SDK version ##
 
-v4.0
+v4.02
 
 ## Hardware Required ##
 
